@@ -24,6 +24,12 @@
   width: auto;
 }
 
+/*.about-entity img {
+  width: 4000px !important;  /* Ajusta este valor al tamaño que quieras */
+/*  height: 400px !important; /* Mantén el mismo valor para que siga siendo un círculo perfecto */
+/*  max-width: none !important;
+/*} */
+
 body {
   /* Cambia los 120px por la altura real de tu barra expandida */
   padding-top: 60px; 
