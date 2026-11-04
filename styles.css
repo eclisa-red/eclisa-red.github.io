@@ -1,0 +1,31 @@
+/* css styles */
+
+/* Importar la fuente desde Google Fonts al inicio del archivo */
+/*@import url('https://googleapis.com');
+
+/* Aplicarla a los elementos que desees */
+/*body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', serif;
+}
+
+/* Cambiar color de fondo de la navbar */
+.navbar {
+  background-color: #274185 !important;
+/*  font-family: 'Roboto', sans-serif;*/
+}
+
+/* Agranda el logo de la barra de navegación */
+.navbar-brand img {
+  max-height: 60px !important; /* Cambia 60px por el alto que desees */
+  width: auto;
+}
+
+.about-entity img {
+  width: 4000px !important;  /* Ajusta este valor al tamaño que quieras */
+  height: 400px !important; /* Mantén el mismo valor para que siga siendo un círculo perfecto */
+  max-width: none !important;
+}
