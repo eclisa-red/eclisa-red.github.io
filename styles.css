@@ -23,9 +23,3 @@
   max-height: 60px !important; /* Cambia 60px por el alto que desees */
   width: auto;
 }
-
-.about-entity img {
-  width: 4000px !important;  /* Ajusta este valor al tamaño que quieras */
-  height: 400px !important; /* Mantén el mismo valor para que siga siendo un círculo perfecto */
-  max-width: none !important;
-}
