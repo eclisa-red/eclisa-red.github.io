@@ -23,3 +23,8 @@
   max-height: 60px !important; /* Cambia 60px por el alto que desees */
   width: auto;
 }
+
+body {
+  /* Cambia los 120px por la altura real de tu barra expandida */
+  padding-top: 60px; 
+}
